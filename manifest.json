@@ -1,7 +1,7 @@
 {
-    "name": "My YT Bookmarks",
+    "name": "YT Music Airbuds Compatibility",
     "version": "0.1.0",
-    "description": "Saving timestamps in YT videos",
+    "description": "Takes things played on youtube music and plays them on spotify to be transferred to the Airbuds app",
     "permissions": ["storage", "tabs"],
     "host_permissions": ["https://*.youtube.com/*"],
     "background": {
